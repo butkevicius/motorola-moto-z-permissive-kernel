@@ -1,9 +1,12 @@
 [submodule "motorola/kernel"]
 	path = motorola/kernel
 	url = https://github.com/MotorolaMobilityLLC/motorola-kernel.git
+	shallow = true
 [submodule "motorola/external/greybus"]
 	path = motorola/external/greybus
 	url = https://github.com/MotorolaMobilityLLC/motorola-external-greybus.git
+	shallow = true
 [submodule "kernel"]
 	path = kernel
 	url = https://github.com/MotorolaMobilityLLC/kernel-msm.git
+	shallow = true
